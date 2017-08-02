@@ -1,0 +1,51 @@
+.container{
+  background-image: url(http://del-corazon.org/wp-content/uploads/2012/10/white-background1.jpg);
+}
+
+.title {
+   text-align: center;
+   font-family: Dosis;
+   font-size: 58px;
+   color: DarkSlateGrey;
+   margin-bottom: 10px;
+}
+
+h2 {
+  font-family: Raleway;
+  text-align: center;
+  color: LightSlateGrey;
+  margin: 5px 20px 15px 20px;
+}
+
+h3 {
+  font-family: Raleway;
+  text-align: left;
+  color: SlateGrey;
+  margin: 5px 10px 15px 20px;
+}
+
+img {
+   height: 550px;
+   width: auto;
+   display: block;
+   margin: auto;
+   align: center;
+}
+ 
+p {
+  font-family: Raleway;
+  font-size: 25px;
+  color: DarkGrey;
+} 
+
+.list {
+  font-size: 20px;
+  min-width: 75%;
+  max-width: 90%;
+  padding: 25px;
+  margin: 10px;
+  letter-spacing: 2.5px;
+  word-spacing: 2px;
+  text-align: justify;
+  line-height: 1.5;
+}
